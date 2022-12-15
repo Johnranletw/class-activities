@@ -1,2 +1,2 @@
-# class-activities
+# class-activities-gwu
 Bootcamp Activities
