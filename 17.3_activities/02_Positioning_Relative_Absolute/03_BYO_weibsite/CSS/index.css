@@ -1,0 +1,62 @@
+.navitem {
+    display: inline-block;
+    background-color: rgb(37, 37, 37);
+    color: azure;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+header{
+    background-color: darkgray;
+    margin-bottom: 5px;
+}
+
+.sidebar{
+    float: left;
+    width: 30%;
+    height: 900px;
+    background-color: lightpink;
+    position: relative;
+}
+
+.bigboy {
+    float: left;
+    width: 67%;
+    height: 900px;
+    background-color: aqua;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.cutie {
+    width: 100%;
+    text-align: center;
+    background-color: yellow;
+    display: block;
+    overflow: auto;
+    padding 5px
+}
+
+.mainimage {
+    float: left;
+    width: 500px;
+    padding: 25px;
+}
+
+.itembox {
+    border: 4cm lightseagreen;
+    margin: 15px;
+    text-align: center;
+}
+
+.item {
+    display: inline-block;
+    width: 200px;
+    margin: 5px
+
+}
+
+.learn {display: block;
+padding: 5px;}
+
+img { width: 100%;}
