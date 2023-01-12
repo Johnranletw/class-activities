@@ -36,7 +36,7 @@ body {
 }
 
 #secondaryProduct {
-  grid-area: secondary Product;
+  grid-area: secondaryProduct;
   background-image: url(../images/furniture2.jpg);
   z-index: 1;
 }
