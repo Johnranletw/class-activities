@@ -32,6 +32,7 @@ p {
   padding: 2%;
   font-size: 16px;
   border-radius: 3px;
+  
 }
 #enter {
   padding: 2%;
@@ -47,6 +48,7 @@ p {
 #todoList {
   width: 100%;
   max-width: 500px;
+  
 }
 .task {
   display: flex;
