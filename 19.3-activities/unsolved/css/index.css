@@ -4,8 +4,13 @@
 .toggleContainer {
   padding: 15px;
   display: none;
-  transition: all;
+  transition: all 2s;
 }
+
+.toggleContainer:hover{
+  display: block;
+}
+
 .hiddenSlide {
   display: none;
   min-height: 428px;
@@ -17,6 +22,7 @@
 .active {
   display: block;
 }
+
 .w3-ul {
   cursor: pointer;
 }
